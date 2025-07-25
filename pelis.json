@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "tags": [
+      "sci-fi",
+      "thriller",
+      "dreams"
+    ],
+    "year": 2010,
+    "synopsis": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into a target's mind.",
+    "image": "https://example.com/inception.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "tags": [
+      "drama",
+      "prison",
+      "friendship"
+    ],
+    "year": 1994,
+    "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://example.com/shawshank.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Spirited Away",
+    "tags": [
+      "animation",
+      "fantasy",
+      "adventure"
+    ],
+    "year": 2001,
+    "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, spirits, and a witch who turns humans into animals.",
+    "image": "https://example.com/spiritedaway.jpg"
+  },
+  {
+    "id": 4411,
+    "title": "Título de la nueva peli",
+    "tags": [
+      "action",
+      "classic"
+    ]
+  }
+]
